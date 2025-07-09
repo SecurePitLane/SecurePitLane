@@ -1,4 +1,31 @@
-## Hi there 👋
+# 🏁 Welcome to SecurePitLane
+
+Hi, I’m Alex — a passionate cybersecurity specialist combining my love for technology and high-performance sports. I’m currently building hands-on projects that simulate how I'd protect systems and data in environments like:
+
+- Formula One teams during race weekends 🏎️
+- Stadiums and arena tech infrastructure 🏟️
+- Sports organizations facing modern cyber threats 🔐
+
+## 💻 Current Focus
+
+- 🔒 Cybersecurity in sports tech
+- 📊 Threat modeling and risk prevention
+- 🧪 Security+ certification (in progress)
+- 🛠️ Building a public portfolio through GitHub
+
+## 🧠 Project Highlights
+
+- [`F1-Raceday-Cybersecurity-Plan`](https://github.com/SecurePitLane/F1-Raceday-Cybersecurity-Plan): My take on securing a Formula One team's systems during a Grand Prix.
+- *(More coming soon!)*
+
+## 📬 Connect with Me
+
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/alex-burt-miller/)
+- 📫 Open to opportunities in cybersecurity, IT support, and sports tech
+
+---
+
+Thanks for stopping by — more projects coming soon!
 
 <!--
 **SecurePitLane/SecurePitLane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +39,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..
 -->
