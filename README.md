@@ -20,8 +20,9 @@ Hi, I’m Alex Burt-Miller — a passionate cybersecurity specialist combining m
 - [`F1 Cyber Threat Model`](https://github.com/SecurePitLane/f1-cyber-threat-model): My take on a cyber threat model for a Formula One team's digital infrastructure.
 - *(More coming soon...)*
 
-### Sports Stadiums Cybersecutity/IT Support Series
-- [`Yankee Stadium IT Support Scenario`(
+### ⚾️🏀🏈 Sports Stadiums Cybersecurity/IT Support Series
+- [`Yankee Stadium IT Support Scenario`](https://github.com/SecurePitLane/Yankee-Stadium-IT-Support-Scenario): My take on a game day IT support scenario at Yankee Stadium
+- (More coming soon...)
 
 ## 📬 Connect with Me
 
