@@ -1,6 +1,6 @@
 # 🏁 Welcome to SecurePitLane
 
-Hi, I’m Alex — a passionate cybersecurity specialist combining my love for technology and high-performance sports. I’m currently building hands-on projects that simulate how I'd protect systems and data in environments like:
+Hi, I’m Alex Burt-Miller — a passionate cybersecurity specialist combining my love for technology and high-performance sports. I’m currently building hands-on projects that simulate how I'd protect systems and data in environments like:
 
 - Formula One teams during race weekends 🏎️
 - Stadiums and arena tech infrastructure 🏟️
