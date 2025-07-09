@@ -17,7 +17,7 @@ Hi, I’m Alex Burt-Miller — a passionate cybersecurity specialist combining m
 #### 🏎️ Formula One Cybersecurity Series
 
 - [`F1 Raceday Cybersecurity Plan`](https://github.com/SecurePitLane/F1-Raceday-Cybersecurity-Plan): My take on securing a Formula One team's systems during a Grand Prix.
-- [`F1 Cyber Threat Model`](https://github.com/SecurePitLane/f1-cyber-threat-model):
+- [`F1 Cyber Threat Model`](https://github.com/SecurePitLane/f1-cyber-threat-model): My take on a cyber threat model for a Formula One team's digital infrastructure.
 - *(More coming soon...)*
 
 
